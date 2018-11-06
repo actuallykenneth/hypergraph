@@ -1,0 +1,12 @@
+1 a,b,h
+2 c,d,i
+3 b,h,i,j
+4 e,a
+5 c,e
+6 e,b,j
+7 f,a
+8 c,f
+9 b,f
+10 a,g
+11 
+12 c,g
